@@ -4,3 +4,4 @@ if name == "":
     name = None
 
 print("Stored value:", name)
+print("Git is working")
